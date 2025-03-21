@@ -6,7 +6,7 @@ annisanabilaandrint@gmail.com
 First-year Software Engineering student at Politeknik Batam :) Learning something new every day!🌸
 
 ### Education
-State Senior High School 20 Batam - Social Sciences 
+State Senior High School 20 Batam - Social Sciences (2021-2024)
 
 ### Technical Skills
 Programming languages: Learning Python, HTML, PHP
