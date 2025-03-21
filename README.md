@@ -21,4 +21,5 @@ Creativity
 ### Past Projects
 First Semester – Online Portfolio Website
 Developed a web-based portfolio platform for Polibatam students, similar to LinkedIn or Facebook, to showcase their skills and experiences.
-![FIGMA DESIGN](/images/Screenshot 2025-03-22 034336.png)
+
+![FIGMA DESIGN](images/Screenshot 2025-03-22 034336.png)
