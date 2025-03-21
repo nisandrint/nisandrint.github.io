@@ -1,6 +1,6 @@
 # Annisa Nabila
 Batam, ID
-[Github]([https://github.com/nisandrint])
+[Github](https://github.com/nisandrint)
 annisanabilaandrint@gmail.com
 
 ### Description
