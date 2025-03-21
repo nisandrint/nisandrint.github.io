@@ -1,7 +1,8 @@
 # Annisa Nabila
 Batam, ID
-annisanabilaandrint@gmail.com
 
+annisanabilaandrint@gmail.com
+[Github](https://github.com/nisandrint)
 ### Description
 First-year Software Engineering student at Politeknik Batam :) Learning something new every day!🌸
 
